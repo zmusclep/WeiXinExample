@@ -1,6 +1,2 @@
-# wcrs
-spring boot rest service sample
-
-./gradlew clean domainLibJar  --> build domainLibJar to be shared in other projects.
-
-./gradlew clean domainLibJar publishToMavenLocal  --> publish domainLibJar to local maven repository.
+# 微信模板
+spring boot 创建的微信公众号模板
